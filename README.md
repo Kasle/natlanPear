@@ -1,2 +1,2 @@
 # natlanPEAR
-A natural language parsing program
+A natural language parsing/processing program
